@@ -8,4 +8,4 @@ Working __BHOP__ in Counter-Strike 2
 Download library `keyboard` via `pip install keyboard`
 
 ## How to use
-Start script from administrator, to __bhop__ hold Caps Lock
+Start script, to __bhop__ hold Caps Lock
